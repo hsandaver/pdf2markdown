@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+pdf2image
+pytesseract
+markdownify
