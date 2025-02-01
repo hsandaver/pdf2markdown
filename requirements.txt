@@ -3,3 +3,4 @@ pdfplumber
 pdf2image
 pytesseract
 markdownify
+wordninja
